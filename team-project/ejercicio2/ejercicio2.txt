@@ -1,0 +1,7 @@
+Cada uno de los miembros del equipo sube un fichero con su nombre en esta carpeta.
+
+Rama: feature_ej2
+
+Ejemplo:
+
+PepitoPerez.txt con un contenido aleatorio
