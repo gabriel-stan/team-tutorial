@@ -1,0 +1,9 @@
+Cada uno de los miembros del equipo sube un fichero con su nombre en esta carpeta.
+
+Rama: feature_ej3_nombre
+
+Ejemplo:
+
+nueva rama a partir de development: feature_ej3_pepito
+
+PepitoPerez.txt con un contenido aleatorio
