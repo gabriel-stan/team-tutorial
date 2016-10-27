@@ -2,15 +2,20 @@ Silvia:
 
 Oussama:
 
-Laia:
+Laia:Laia Vilas
 
 Gabriel: Gabriel Stan
 
 David: David Ruiz
 
+<<<<<<< HEAD
 Sara: Sara Cano 
+=======
+Juan: infiltrados
 
-Guillem:
+Sara: sara
+
+Guillem: Guillem el Español
 
 Felipe:Felipe Fernandez 
 
