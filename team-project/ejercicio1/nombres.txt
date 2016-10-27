@@ -8,12 +8,9 @@ Gabriel: Gabriel Stan
 
 David: David Ruiz
 
-<<<<<<< HEAD
 Sara: Sara Cano 
-=======
-Juan: infiltrados
 
-Sara: sara 
+Juan: infiltrados
 
 Guillem: Guillem el Español
 
