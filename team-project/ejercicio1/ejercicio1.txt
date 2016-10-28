@@ -1,0 +1,3 @@
+Cada uno de los miembros del equipo rellena su nombre completo en el fichero nombres.txt
+
+Rama: feature_ej1
